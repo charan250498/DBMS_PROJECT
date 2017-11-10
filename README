@@ -1,0 +1,25 @@
+This project is about a web application that can be used to keep track of project progress.
+
+The front end of this works on HTML,CSS,JAVASCRIPT and BOOTSTRAP.
+PHP is used for back end or server side.
+
+This project makes use of a DataBase(PROJECT_TRACKING) and following are tables of it : 
+	EMPLOYEE
+	PROJECT
+	PROJECT_MEMBERS
+	MILESTONES
+	DEPARTMENTS
+	EMPLOYEE_WORK	
+	PROJECT_PROGRESS
+	TASK_PROGRESS
+
+Several constraints are also imposed on the attributes of the table.
+The tables can also be populated with data using insert statements.
+All of which are written into separate files under SQL_FILES directory.
+
+Triggers and Procedures have been implemented so that some of the non-functional requirements are meet.
+
+This abstract of the project goes like this:
+
+Tracking the progress of projects have always been a challenging task for managers due to insufficient tracking tools or methods.The aim of our project is to ease the work of tracking projects' progress and simplify the work of managers by tracking every bit of the project starting the requirement specification to system maintainance after delivery.Using this we can efficiently and effectively take necessary steps and actions to complete the project or find alternate plans in any kind of unforesen problems.We can also be able to manage all employees working hours and assessing individual cotributions.This would be a significant tool for communication and for job/task scheduling. 
+
