@@ -1,0 +1,74 @@
+('amzn027','Charan Kumar','M','charan027','web123','java')
+('amzn009','Amar','O','amar009','hello89','c')
+('amzn046','Sanju Sam Mathew','M','sanju045','key443','python')
+('amzn070','Ranjan','M','ranjan070','see784','c#')
+('amzn063','Puneeth','M','puneeth063','wow555','html')
+('amzn037','kavya','F','kavya037','meow2424','javascript')
+('amzn027','harshitha','F','harshu027','teddybear000','css')
+('amzn018','Pooja charan','F','poo018','engaged97','unix shell')
+('amzn054','Moh.Hussain','M','moh054','hat456','.net')
+('amzn045','johny','M','joh045','luv897','maya')
+('amzn036','monica','F','mon036','papamummy','PIZZA')
+
+
+('pro594','fernandez textiles project','automate textile production management','create an application to automate the production system management','2017-04-29','2017-12-31','dep594','amzn027')
+('pro987','india post services project','database for postal services','create an application to maintain data about all the mails in a database and simplify the data maintainance and processing','2017-01-30','2017-09-05','dep987','amzn063')
+('pro624','royal blue sales project','production and distribution management','create an application to manage a part of supply chain management and logistic management of water bottles' ,'2017-04-05','2019-01-05','dep624','amzn009')
+
+
+
+('pro594','amzn027','amzn046','amzn070','amzn037','amzn027','amzn054','amzn018')
+('pro987','amzn063','amzn045,'amzn036','amzn054,'amzn018','amzn027','amzn037')
+('pro624','amzn009','amzn045,'amzn070','amzn027,'amzn037','amzn036,'amzn046')
+
+
+
+('pro594','tas5941','requirement listing','amzn046','2017-07-29','ongoing')
+('pro594','tas5942','design and implementation','amzn037','starting soon')
+('pro594','tas5943','testing','amzn070','starting soon')
+('pro987','tas9871','requirement listing','amzn036','completed')
+('pro987','tas9872','design and implementation','amzn054','completed')
+('pro987','tas9873','testing','amzn018','ongoing')
+('pro624','tas6241','requirement listing','amzn045','completed')
+('pro624','tas6242','design and implementation','amzn027','ongoing')
+('pro624','tas6243','testing and maintainance','amzn036','starting soon')
+
+
+('dep594','aries team','amzn027')
+('dep987','leo team','amzn063')
+('dep624','virgo team','amzn009')
+
+
+
+('amzn027','Charan Kumar',7)
+('amzn009','Amar',8)
+('amzn046','Sanju Sam Mathew',9)
+('amzn070','Ranjan',8)
+('amzn063','Puneeth',7)
+('amzn037','kavya',8)
+('amzn027','harshitha',7)
+('amzn018','Pooja charan',7)
+('amzn054','Moh.Hussain',7)
+('amzn045','johny',7)
+('amzn036','monica',8)
+
+
+
+
+('pro594','starting soon')
+('pro987','ongoing')
+('pro624','starting soon')
+
+
+('pro594','tas5941','ongoing')
+('pro594','tas5942','starting soon')
+('pro594','tas5943','starting soon')
+('pro987','tas9871','completed')
+('pro987','tas9872','completed')
+('pro987','tas9873','ongoing')
+('pro624','tas6241','completed')
+('pro624','tas6242','ongoing')
+('pro624','tas6243','starting soon')
+
+
+
