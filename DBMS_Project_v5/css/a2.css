@@ -1,0 +1,49 @@
+
+
+
+
+#main-wrapper{
+  width:1500px;
+  margin: 0 auto;
+  background:white;
+  padding:5px;
+  border-radius:10px;
+  border:2px solid #2c3e50;
+  opacity: 0.85;
+
+
+}
+.avatar{
+  width:150px;
+  text-align:center;
+
+}
+
+#login_btn{
+  margin-top:10px;
+  background-color:#27ae60;
+  padding: 5px;
+  color:white;
+  width:100%;
+  text-align: center;
+  font-size:18px;
+  font-weight:bold;
+  opacity: 1.0;
+}
+
+
+
+
+
+#register_btn{
+  margin-bottom: 20px;
+  margin-top:10px;
+  background-color:#3498db;
+  padding: 5px;
+  color:white;
+  width:100%;
+  text-align: center;
+  font-size:18px;
+  font-weight:bold;
+  opacity: 1.0;
+}
